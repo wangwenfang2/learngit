@@ -3,7 +3,8 @@
 ![baidu](http://www.baidu.com/img/bdlogo.gif)  
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
 
-![pic](https://github.com/wangwenfang2/learngit/raw/master/weinxinpic.png)    
+![hadoop](https://github.com/wangwenfang2/learngit/raw/master/weinxinpic.gif)  
+
 ![图片](https://github.com/wangwenfang2/learngit/blob/master/weixinpic.png)
 
 [![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
