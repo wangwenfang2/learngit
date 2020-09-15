@@ -3,10 +3,7 @@
 ![baidu](http://www.baidu.com/img/bdlogo.gif)  
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
 
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
-[![baidu]](http://www.baidu.com)  
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  
-
+![](https://github.com/wangwenfang2/learngit/raw/master/weinxinpic.png)    
 
 [![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")](http://www.baidu.com)
 
